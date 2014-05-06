@@ -6,7 +6,7 @@ Direktori Pythonistas dan Proyek - Python Indonesia.
 Tentang
 =======
 
-Repositori ini _akan_ berisi nama-nama Pythonistas dan proyek-proyek Python Indonesia. 
+Repositori ini _akan_ berisi nama-nama Pythonistas dan proyek-proyek Python Indonesia.
 
 Pythonistas
 ===========
@@ -30,7 +30,7 @@ C
 * ...
 
 D
-- 
+-
 
 * [Donny Reza] (http://donnyreza.net) ([@donnyreza](https://twitter.com/donnyreza))
 
@@ -110,6 +110,7 @@ R
 -
 
 * Rezha Julio ([@kimiamania](http://twitter.com/kimiamania))
+* Riza Arsyi ([@_rizarc](http://twitter.com/_rizarc))
 
 S
 -
@@ -131,12 +132,12 @@ U
 * ...
 
 V
-- 
+-
 
 * ...
 
 W
-- 
+-
 
 * ...
 
@@ -151,7 +152,7 @@ Y
 * ...
 
 Z
--- 
+--
 
 * Zaki Akhmad ([@zakiakhmad](http://twitter.com/zakiakhmad)); Jakarta Selatan; security, penetration test, scripting, dan bersenang-senang :-)
 
